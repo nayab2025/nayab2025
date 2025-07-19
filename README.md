@@ -1,55 +1,46 @@
-# 👋 Hi, I'm Nayab Shafique
+# 💻 C++ Programming Portfolio
 
-🎓 C++ Learner | 💻 Programming Enthusiast | 🌐 Building My Portfolio
+Welcome to my C++ programming portfolio! This repository showcases a collection of C++ projects that demonstrate core programming concepts such as:
 
----
+- Classes and Objects  
+- Inheritance  
+- Polymorphism  
+- File Handling  
+- Operator Overloading  
+- Data Structures  
+- OOP Principles  
 
-## 🚀 My Latest Projects
-
-Here are some highlights from my C++ programming journey:
-
-| Project | Description |
-|--------|-------------|
-| 🔐 **User Login System** | Secure login with file-based credentials |
-| 📚 **Library Management System** | Book records using classes and files |
-| 🏦 **Bank Account Manager** | Inheritance to model accounts |
-| 🧮 **Matrix Calculator** | Operator overloading in action |
-| 💡 **Virtual Function Example** | Runtime polymorphism demo |
-| 🧾 **Student Record Manager** | Binary file operations |
-| 🎲 **Number Guessing Game** | Simple logic and randomness |
-
-👉 [View My Portfolio](https://nayab2025.github.io/cpp-portfolio)
+Each project is written in pure C++ and can be compiled with any standard C++ compiler (e.g., g++, Code::Blocks, or Visual Studio).
 
 ---
 
-## 📌 Skills I'm Learning
+## 🚀 Projects Included
 
-- C++ (OOP, File Handling, Polymorphism)
-- HTML & CSS (for websites)
-- Git & GitHub (for projects and hosting)
+| Project Title                           | Description                                                  |
+|----------------------------------------|--------------------------------------------------------------|
+| 🔐 User Login System                   | File-based system for user registration and login.           |
+| 📚 Library Management System           | Uses classes and files to store and manage book data.        |
+| 🏦 Bank Management with Inheritance    | Demonstrates OOP with base and derived classes.              |
+| 🧮 Matrix Operator Overloading         | Adds two matrices using operator overloading.                |
+| 📊 Student Result Management           | Manages student marks and calculates grade percentage.       |
+| ⏱️ Stopwatch Timer                     | Implements a simple stopwatch using delay and loops.         |
+| 🧠 Factorial Finder                    | Recursively finds factorial of a number.                     |
+| 🎲 Number Guessing Game                | Randomized game using loops and conditions.                  |
+| 🏁 Horse Race Simulation               | Simulates horse race using loops and randomness.             |
+| 💸 Money Class with Formatting         | Formats and adds money values using classes.                 |
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Live Demo
 
-- 💻 GitHub: [@nayab2025](https://github.com/nayab2025)
-- 🌐 Portfolio: [C++ Project Showcase](https://nayab2025.github.io/cpp-portfolio)
+View the portfolio live at:  
+👉 **[https://nayab2025.github.io/cpp-portfolio/](https://nayab2025.github.io/cpp-portfolio/)**
+
+Each project includes:
+- Project description  
+- Source code displayed  
+- Downloadable `.cpp` file
 
 ---
 
-⭐ _Thanks for visiting my profile! Give a star to my projects if you like them!_
-
-<!--
-**nayab2025/nayab2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Folder Structure
