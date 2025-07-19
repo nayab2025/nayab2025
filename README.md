@@ -29,12 +29,9 @@ Each project is written in pure C++ and can be compiled with any standard C++ co
 | 🏁 Horse Race Simulation               | Simulates horse race using loops and randomness.             |
 | 💸 Money Class with Formatting         | Formats and adds money values using classes.                 |
 
----
-
-## 🌐 Live Demo
-
+---🌐 Live Demo  
 View the portfolio live at:  
-👉 **[https://nayab2025.github.io/cpp-portfolio/](https://nayab2025.github.io/cpp-portfolio/)**
+👉 https://nayab2025.github.io/cpp--portfolio-/
 
 Each project includes:
 - Project description  
